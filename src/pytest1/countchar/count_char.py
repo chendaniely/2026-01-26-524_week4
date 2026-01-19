@@ -1,5 +1,9 @@
 def count_char(input_string):
 
+    #breakpoint() #browser()
+    print(input_string)
+
+
     if not isinstance(input_string, str):
         raise TypeError(f"Expected the input to be of type str, got {type(input_string)}")
 
