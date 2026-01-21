@@ -53,7 +53,7 @@
     "href": "reference/index.html",
     "title": "Function reference",
     "section": "",
-    "text": "Functions to inspect docstrings.\n\n\n\ncount_char",
+    "text": "Functions to inspect docstrings.\n\n\n\ncount_char\n\n\n\nexample.add_numbers\nAdd two numbers together and return the result.",
     "crumbs": [
       "Reference",
       "Function reference"
@@ -64,7 +64,7 @@
     "href": "reference/index.html#some-functions",
     "title": "Function reference",
     "section": "",
-    "text": "Functions to inspect docstrings.\n\n\n\ncount_char",
+    "text": "Functions to inspect docstrings.\n\n\n\ncount_char\n\n\n\nexample.add_numbers\nAdd two numbers together and return the result.",
     "crumbs": [
       "Reference",
       "Function reference"
@@ -96,28 +96,48 @@
     "href": "reference/example.add_numbers.html",
     "title": "example.add_numbers",
     "section": "",
-    "text": "example.add_numbers(a, b)\nAdd two numbers together and return the result.\nThis is an example function with a numpy style docstring. We recommend using this style for consistency and readability.\n\n\n\n\n\nName\nType\nDescription\nDefault\n\n\n\n\na\nfloat\nThe first number to add.\nrequired\n\n\nb\nfloat\nThe second number to add.\nrequired\n\n\n\n\n\n\n\n\n\nName\nType\nDescription\n\n\n\n\n\nfloat\nThe sum of the two numbers.\n\n\n\n\n\n\n&gt;&gt;&gt; add_numbers(3, 5)\n8\n&gt;&gt;&gt; add_numbers(-2, 7)\n5"
+    "text": "example.add_numbers(a, b)\nAdd two numbers together and return the result.\nThis is an example function with a numpy style docstring. We recommend using this style for consistency and readability.\n\n\n\n\n\nName\nType\nDescription\nDefault\n\n\n\n\na\nfloat\nThe first number to add.\nrequired\n\n\nb\nfloat\nThe second number to add.\nrequired\n\n\n\n\n\n\n\n\n\nName\nType\nDescription\n\n\n\n\n\nfloat\nThe sum of the two numbers.\n\n\n\n\n\n\n&gt;&gt;&gt; add_numbers(3, 5)\n8\n&gt;&gt;&gt; add_numbers(-2, 7)\n5",
+    "crumbs": [
+      "Reference",
+      "Some functions",
+      "example.add_numbers"
+    ]
   },
   {
     "objectID": "reference/example.add_numbers.html#parameters",
     "href": "reference/example.add_numbers.html#parameters",
     "title": "example.add_numbers",
     "section": "",
-    "text": "Name\nType\nDescription\nDefault\n\n\n\n\na\nfloat\nThe first number to add.\nrequired\n\n\nb\nfloat\nThe second number to add.\nrequired"
+    "text": "Name\nType\nDescription\nDefault\n\n\n\n\na\nfloat\nThe first number to add.\nrequired\n\n\nb\nfloat\nThe second number to add.\nrequired",
+    "crumbs": [
+      "Reference",
+      "Some functions",
+      "example.add_numbers"
+    ]
   },
   {
     "objectID": "reference/example.add_numbers.html#returns",
     "href": "reference/example.add_numbers.html#returns",
     "title": "example.add_numbers",
     "section": "",
-    "text": "Name\nType\nDescription\n\n\n\n\n\nfloat\nThe sum of the two numbers."
+    "text": "Name\nType\nDescription\n\n\n\n\n\nfloat\nThe sum of the two numbers.",
+    "crumbs": [
+      "Reference",
+      "Some functions",
+      "example.add_numbers"
+    ]
   },
   {
     "objectID": "reference/example.add_numbers.html#examples",
     "href": "reference/example.add_numbers.html#examples",
     "title": "example.add_numbers",
     "section": "",
-    "text": "&gt;&gt;&gt; add_numbers(3, 5)\n8\n&gt;&gt;&gt; add_numbers(-2, 7)\n5"
+    "text": "&gt;&gt;&gt; add_numbers(3, 5)\n8\n&gt;&gt;&gt; add_numbers(-2, 7)\n5",
+    "crumbs": [
+      "Reference",
+      "Some functions",
+      "example.add_numbers"
+    ]
   },
   {
     "objectID": "reference/count_char.html",
