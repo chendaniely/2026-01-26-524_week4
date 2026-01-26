@@ -1,5 +1,6 @@
 # 2026-01-26-pytest
 
+[![codecov](https://codecov.io/github/chendaniely/2026-01-26-524_week4/graph/badge.svg?token=p2ZqsZUSsf)](https://codecov.io/github/chendaniely/2026-01-26-524_week4)
 
 ## Lecture 1
 
