@@ -36,21 +36,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "2026-01-12-pytest",
+    "title": "2026-01-26-pytest",
     "section": "",
-    "text": "Example demo/live code repo for UBC DSCI 524 Week 3 (ci/cd + documentation)\n\n\n\nBadges (code coverage + codecov.io)\nQuarto website examples, front page, setup, get started pages\nCI: website deployment preview\ndiscuss semantic versioning and convensional commits\n\n\n\n\n\nSemantic release based on tag version\nLicensing"
+    "text": "Badges (code coverage + codecov.io)\nQuarto website examples, front page, setup, get started pages\nCI: website deployment preview\ndiscuss semantic versioning and convensional commits\n\n\n\n\n\nSemantic release based on tag version\nLicensing"
   },
   {
     "objectID": "index.html#lecture-1",
     "href": "index.html#lecture-1",
-    "title": "2026-01-12-pytest",
+    "title": "2026-01-26-pytest",
     "section": "",
     "text": "Badges (code coverage + codecov.io)\nQuarto website examples, front page, setup, get started pages\nCI: website deployment preview\ndiscuss semantic versioning and convensional commits"
   },
   {
     "objectID": "index.html#lecture-2",
     "href": "index.html#lecture-2",
-    "title": "2026-01-12-pytest",
+    "title": "2026-01-26-pytest",
     "section": "",
     "text": "Semantic release based on tag version\nLicensing"
   },
