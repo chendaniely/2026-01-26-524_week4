@@ -90,6 +90,10 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
+    <a class="nav-link" href="./tutorial.html"> 
+<span class="menu-text">Tutorial</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./reference/index.html"> 
 <span class="menu-text">Reference</span></a>
   </li>  
@@ -161,6 +165,18 @@ ul.task-list li input[type="checkbox"] {
 <li>configuration page there’s a badge + graphs section</li>
 <li>copy the markdown badge (we are using quarto + quartodoc, rst is for sphinx)</li>
 </ul></li>
+</ul></li>
+<li>website deployment previews
+<ul>
+<li>https://www.netlify.com/</li>
+<li>you may be asked to install app after you connect with github</li>
+<li>deploy new project from github (may trigger app install here)</li>
+<li>use a random project name for now (it’s a deployment preview, don’t clutter the namespace if you don’t need to)</li>
+<li>leave everything else blank, we will push from github actions</li>
+<li>NETLIFY_AUTH_TOKEN: this is the Netlify PAT</li>
+<li>NETLIFY_SITE_ID: you can find tihs in the Netlify website configuration page</li>
+<li>use the example yaml file, note that it’s PR only (why does this make sense?)</li>
+<li>workflow needs read+right permissions</li>
 </ul></li>
 </ul>
 
